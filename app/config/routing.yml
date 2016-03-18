@@ -1,0 +1,38 @@
+projet_dgi_archivage:
+    resource: "@ProjetDGIArchivageBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+projet_dgi_reporting:
+    resource: "@ProjetDGIReportingBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+projet_dgigdp:
+    resource: "@ProjetDGIGDPBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+projet_dgigcc:
+    resource: "@ProjetDGIGCCBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+projet_dgigrs:
+    resource: "@ProjetDGIGRSBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+projet_dgigrp:
+    resource: "@ProjetDGIGRPBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+projet_dgigrh:
+    resource: "@ProjetDGIGRHBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+
+
+

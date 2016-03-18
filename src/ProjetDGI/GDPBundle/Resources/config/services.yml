@@ -1,0 +1,4 @@
+services:
+#    projet_dgigdp.example:
+#        class: ProjetDGI\GDPBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
